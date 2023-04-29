@@ -3,7 +3,7 @@ var object1 = {
   name: "John Doe",
   gender: "M",
   height: 180,
-  weight: 50,
+  weight: 89,
 };
 
 var object2 = {
